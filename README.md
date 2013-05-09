@@ -15,6 +15,7 @@ You can design various responsive web-pages using JavaScript. Turns out it's pre
 		$('#footer').putty('xysize', 0, height - 150, width, 150);
 	});
 
+---
 	
 	<body>
 		<header id="header">
