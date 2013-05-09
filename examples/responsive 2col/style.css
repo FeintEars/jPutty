@@ -1,0 +1,33 @@
+body {
+	min-width: 1000px;
+}
+
+#header {
+	float: none;
+	width: 1000px; height: 150px;
+	background-color: #ffe680;
+}
+
+#sideLeft {
+	float: left;
+	width: 250px;
+	background-color: #b5e3ff;
+}
+
+#content {
+	float: left;
+	width: 500px;
+	background-color: #e0aabc;
+}
+
+#sideRight {
+	float: left;
+	width: 250px;
+	background-color: #ffacaa;
+}
+
+#footer {
+	clear: both;
+	width: 1000px; height: 150px;
+	background-color: #bff08e;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "jputty",
+  "title": "jPutty",
+  "description": "jPutty is a jQuery plugin for easy static page-proof",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FeintEars/jPutty",
+  "author": {
+    "name": "Sergey Zubkov",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeintEars/jPutty"
+  },
+  "bugs": "https://github.com/FeintEars/jPutty/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+  ],
+}
