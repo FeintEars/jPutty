@@ -18,5 +18,8 @@
       "type": "MIT",
       "url": "http://opensource.org/licenses/MIT"
     }
-  ]
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
 }
