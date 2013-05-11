@@ -3,9 +3,10 @@
 * Static page-proof with jquery
 *
 * @author Sergey Zubkov <zubkov@2st.biz>
+* @homepage http://jputty.com/
 * @version 1.0.0
 * @license MIT http://opensource.org/licenses/MIT
-* @date 2013-05-09
+* @date 2013-05-11
 */
 (function($) {
 
