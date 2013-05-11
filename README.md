@@ -1,7 +1,7 @@
 jPutty (jQuery plugin)
 =================
 [jputty.com](http://jputty.com "english oficial site")  
-[jputty.ru](http://jputty.ru "русский официальный сайт")
+[jputty.ru](http://jputty.ru "russian oficial site")
 
 jPutty is a small jQuery plugin that lets developers setup layout displays via JavaScript calls.
 
