@@ -4,7 +4,7 @@
 *
 * @author Sergey Zubkov <zubkov@2st.biz>
 * @homepage http://jputty.com/
-* @version 1.0.3
+* @version 1.0.5
 * @license MIT http://opensource.org/licenses/MIT
 * @date 2013-05-11
 */
