@@ -2,7 +2,7 @@
   "name": "jputty",
   "title": "jPutty",
   "description": "jPutty is a jQuery plugin for easy static page-proof",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "http://jputty.com",
   "author": {
     "name": "Sergey Zubkov",
